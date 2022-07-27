@@ -12,3 +12,7 @@
   object-fit: cover;
   filter: brightness(50%);
 }
+
+.price{
+    color: royalblue;
+}

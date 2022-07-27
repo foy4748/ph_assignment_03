@@ -1,4 +1,4 @@
 - Provided Design Repo: [EdTech Website](https://github.com/ProgrammingHero1/edTech-website)
 - My Repo: [foy4748/ph\_assignment\_03](https://github.com/foy4748/ph_assignment_03)
 - Live Website on [Netlify](https://netlify.com)
-- Live Website on [Gihub Page](https://github.com) (Just in Case)
+- Live Website on [Gihub Page](https://foy4748.github.io/ph_assignment_03/index.html) (Just in Case)
