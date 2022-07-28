@@ -1,4 +1,5 @@
 - Provided Design Repo: [EdTech Website](https://github.com/ProgrammingHero1/edTech-website)
+- Requirements: [Notion Notes](https://screeching-plough-4fd.notion.site/Assignment-3-64612aee090f48bc92c4f833a6613a81)
 - My Repo: [foy4748/ph\_assignment\_03](https://github.com/foy4748/ph_assignment_03)
-- Live Website on [Netlify](https://netlify.com)
-- Live Website on [Gihub Page](https://foy4748.github.io/ph_assignment_03/index.html) (Just in Case)
+- Live Website on: [Netlify](https://netlify.com)
+- Live Website on: [Gihub Page](https://foy4748.github.io/ph_assignment_03/index.html) (Just in Case)
