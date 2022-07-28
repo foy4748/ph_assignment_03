@@ -36,6 +36,10 @@ body {
   color: var(--main-theme);
 }
 
+.ratings {
+  color: gold;
+}
+
 .theme-background {
   background-color: var(--main-theme);
   color: white;
