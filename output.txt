@@ -1,108 +1,132 @@
 
-
-				<!-- Single Course  -->
-				<div class="course border rounded p-0 col-12 col-lg-6">
-					<div class="course-elements d-flex flex-column flex-md-row">
-						<div class="course-thumbnail">
-							<img src="images/course/course-1.png" class="w-100 img-fluid" alt="" />
-						</div>
-						<div
-							class="course-info px-3 mt-3 mt-md-0  ms-md-5 d-md-flex flex-column justify-content-center">
-							<h5>course-1</h5>
-							<p>Learn course-1 at your own pace</p>
-							<h2><span class="price">$20</span></h2>
-						</div>
-					</div>
-				</div>
-				<!-- END of Single Course  -->
-
-
-
-				<!-- Single Course  -->
-				<div class="course border rounded p-0 col-12 col-lg-6">
-					<div class="course-elements d-flex flex-column flex-md-row">
-						<div class="course-thumbnail">
-							<img src="images/course/course-2.png" class="w-100 img-fluid" alt="" />
-						</div>
-						<div
-							class="course-info px-3 mt-3 mt-md-0  ms-md-5 d-md-flex flex-column justify-content-center">
-							<h5>course-2</h5>
-							<p>Learn course-2 at your own pace</p>
-							<h2><span class="price">$20</span></h2>
-						</div>
-					</div>
-				</div>
-				<!-- END of Single Course  -->
+          <!-- Single Course  -->
+          <div class="course outline rounded p-0 col-12 col-lg-6">
+            <div class="course-elements d-flex flex-column flex-md-row">
+              <div class="course-thumbnail">
+                <img
+                  src="images/course/course-1.png"
+                  class="w-100 img-fluid"
+                  alt=""
+                />
+              </div>
+              <div
+                class="container px-2 mt-3 mt-md-0 ms-md-3 d-md-flex flex-column justify-content-center"
+              >
+                <h1 class="fs-4">Fundamental Of UI/UX Design</h1>
+                <p>Learn Fundamental Of UI/UX Design at your own pace</p>
+                <h2 class="fs-4"><span class="price">Price: $20</span></h2>
+              </div>
+            </div>
+          </div>
+          <!-- END of Single Course  -->
 
 
-
-				<!-- Single Course  -->
-				<div class="course border rounded p-0 col-12 col-lg-6">
-					<div class="course-elements d-flex flex-column flex-md-row">
-						<div class="course-thumbnail">
-							<img src="images/course/course-3.png" class="w-100 img-fluid" alt="" />
-						</div>
-						<div
-							class="course-info px-3 mt-3 mt-md-0  ms-md-5 d-md-flex flex-column justify-content-center">
-							<h5>course-3</h5>
-							<p>Learn course-3 at your own pace</p>
-							<h2><span class="price">$20</span></h2>
-						</div>
-					</div>
-				</div>
-				<!-- END of Single Course  -->
-
-
-
-				<!-- Single Course  -->
-				<div class="course border rounded p-0 col-12 col-lg-6">
-					<div class="course-elements d-flex flex-column flex-md-row">
-						<div class="course-thumbnail">
-							<img src="images/course/course-4.png" class="w-100 img-fluid" alt="" />
-						</div>
-						<div
-							class="course-info px-3 mt-3 mt-md-0  ms-md-5 d-md-flex flex-column justify-content-center">
-							<h5>course-4</h5>
-							<p>Learn course-4 at your own pace</p>
-							<h2><span class="price">$20</span></h2>
-						</div>
-					</div>
-				</div>
-				<!-- END of Single Course  -->
+          <!-- Single Course  -->
+          <div class="course outline rounded p-0 col-12 col-lg-6">
+            <div class="course-elements d-flex flex-column flex-md-row">
+              <div class="course-thumbnail">
+                <img
+                  src="images/course/course-2.png"
+                  class="w-100 img-fluid"
+                  alt=""
+                />
+              </div>
+              <div
+                class="container px-2 mt-3 mt-md-0 ms-md-3 d-md-flex flex-column justify-content-center"
+              >
+                <h1 class="fs-4">Javascript Basic to advanced</h1>
+                <p>Learn Javascript Basic to advanced at your own pace</p>
+                <h2 class="fs-4"><span class="price">Price: $20</span></h2>
+              </div>
+            </div>
+          </div>
+          <!-- END of Single Course  -->
 
 
+          <!-- Single Course  -->
+          <div class="course outline rounded p-0 col-12 col-lg-6">
+            <div class="course-elements d-flex flex-column flex-md-row">
+              <div class="course-thumbnail">
+                <img
+                  src="images/course/course-3.png"
+                  class="w-100 img-fluid"
+                  alt=""
+                />
+              </div>
+              <div
+                class="container px-2 mt-3 mt-md-0 ms-md-3 d-md-flex flex-column justify-content-center"
+              >
+                <h1 class="fs-4">Fullstack Web Development</h1>
+                <p>Learn Fullstack Web Development at your own pace</p>
+                <h2 class="fs-4"><span class="price">Price: $20</span></h2>
+              </div>
+            </div>
+          </div>
+          <!-- END of Single Course  -->
 
-				<!-- Single Course  -->
-				<div class="course border rounded p-0 col-12 col-lg-6">
-					<div class="course-elements d-flex flex-column flex-md-row">
-						<div class="course-thumbnail">
-							<img src="images/course/course-5.png" class="w-100 img-fluid" alt="" />
-						</div>
-						<div
-							class="course-info px-3 mt-3 mt-md-0  ms-md-5 d-md-flex flex-column justify-content-center">
-							<h5>course-5</h5>
-							<p>Learn course-5 at your own pace</p>
-							<h2><span class="price">$20</span></h2>
-						</div>
-					</div>
-				</div>
-				<!-- END of Single Course  -->
+
+          <!-- Single Course  -->
+          <div class="course outline rounded p-0 col-12 col-lg-6">
+            <div class="course-elements d-flex flex-column flex-md-row">
+              <div class="course-thumbnail">
+                <img
+                  src="images/course/course-4.png"
+                  class="w-100 img-fluid"
+                  alt=""
+                />
+              </div>
+              <div
+                class="container px-2 mt-3 mt-md-0 ms-md-3 d-md-flex flex-column justify-content-center"
+              >
+                <h1 class="fs-4">Digital Marketing</h1>
+                <p>Learn Digital Marketing at your own pace</p>
+                <h2 class="fs-4"><span class="price">Price: $20</span></h2>
+              </div>
+            </div>
+          </div>
+          <!-- END of Single Course  -->
 
 
+          <!-- Single Course  -->
+          <div class="course outline rounded p-0 col-12 col-lg-6">
+            <div class="course-elements d-flex flex-column flex-md-row">
+              <div class="course-thumbnail">
+                <img
+                  src="images/course/course-5.png"
+                  class="w-100 img-fluid"
+                  alt=""
+                />
+              </div>
+              <div
+                class="container px-2 mt-3 mt-md-0 ms-md-3 d-md-flex flex-column justify-content-center"
+              >
+                <h1 class="fs-4">Photography Basic Rules</h1>
+                <p>Learn Photography Basic Rules at your own pace</p>
+                <h2 class="fs-4"><span class="price">Price: $20</span></h2>
+              </div>
+            </div>
+          </div>
+          <!-- END of Single Course  -->
 
-				<!-- Single Course  -->
-				<div class="course border rounded p-0 col-12 col-lg-6">
-					<div class="course-elements d-flex flex-column flex-md-row">
-						<div class="course-thumbnail">
-							<img src="images/course/course-6.png" class="w-100 img-fluid" alt="" />
-						</div>
-						<div
-							class="course-info px-3 mt-3 mt-md-0  ms-md-5 d-md-flex flex-column justify-content-center">
-							<h5>course-6</h5>
-							<p>Learn course-6 at your own pace</p>
-							<h2><span class="price">$20</span></h2>
-						</div>
-					</div>
-				</div>
-				<!-- END of Single Course  -->
+
+          <!-- Single Course  -->
+          <div class="course outline rounded p-0 col-12 col-lg-6">
+            <div class="course-elements d-flex flex-column flex-md-row">
+              <div class="course-thumbnail">
+                <img
+                  src="images/course/course-6.png"
+                  class="w-100 img-fluid"
+                  alt=""
+                />
+              </div>
+              <div
+                class="container px-2 mt-3 mt-md-0 ms-md-3 d-md-flex flex-column justify-content-center"
+              >
+                <h1 class="fs-4">Motion Graphics</h1>
+                <p>Learn Motion Graphics at your own pace</p>
+                <h2 class="fs-4"><span class="price">Price: $20</span></h2>
+              </div>
+            </div>
+          </div>
+          <!-- END of Single Course  -->
 

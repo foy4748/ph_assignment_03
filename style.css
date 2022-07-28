@@ -65,7 +65,12 @@ body {
 /* ----------------------
  * End of Customizing SPACING */
 
+/* Miscellenious */
 /* Getting Rid of Visited Link default style */
 footer a:visited {
   color: white;
+}
+
+.outline {
+  outline: 1px solid lightgray;
 }
