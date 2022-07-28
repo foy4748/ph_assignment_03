@@ -16,3 +16,8 @@
 .price {
   color: royalblue;
 }
+
+/* Getting Rid of Visited Link default style */
+a:visited {
+  color: white;
+}
