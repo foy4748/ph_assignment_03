@@ -58,6 +58,10 @@ body {
 .section-top-margin {
   margin-top: 5rem;
 }
+
+.text-justify {
+  text-align: justify;
+}
 /* ----------------------
  * End of Customizing SPACING */
 
