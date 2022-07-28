@@ -49,6 +49,14 @@ body {
 /* ----------------------
  * End of Customizing COLOR */
 
+/* Customizing SPACING
+ * -------------------------*/
+.section-top-margin {
+  margin-top: 5rem;
+}
+/* ----------------------
+ * End of Customizing SPACING */
+
 /* Getting Rid of Visited Link default style */
 footer a:visited {
   color: white;
