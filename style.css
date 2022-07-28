@@ -10,11 +10,15 @@
   height: 80vh;
   object-position: center;
   object-fit: cover;
-  filter: brightness(50%);
+  filter: brightness(60%);
 }
 
 .price {
   color: royalblue;
+}
+
+.vendors {
+  margin: 5rem 0;
 }
 
 /* Getting Rid of Visited Link default style */
