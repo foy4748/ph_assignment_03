@@ -3,8 +3,8 @@ import os
 course_pic = os.listdir('./images/course/')
 course_template = '''
           <!-- Single Course  -->
-          <div class="course outline rounded p-0 col-12 col-lg-6">
-            <div class="course-elements d-flex flex-column flex-md-row">
+          <div class="col-12 col-lg-6">
+            <div class="container  border rounded  p-0 p-lg-2 d-flex flex-column flex-md-row">
               <div class="course-thumbnail">
                 <img
                   src="images/course/{cp}"
@@ -15,9 +15,9 @@ course_template = '''
               <div
                 class="container px-2 mt-3 mt-md-0 ms-md-3 d-md-flex flex-column justify-content-center"
               >
-                <h1 class="fs-4">{cn}</h1>
+                <h1 class="fs-5 fs-md-3">{cn}</h1>
                 <p>{cd}</p>
-                <h2 class="fs-4"><span class="price">Price: $20</span></h2>
+                <h2 class="fs-5 fs-md-3"><span class="price">Price: $20</span></h2>
               </div>
             </div>
           </div>
