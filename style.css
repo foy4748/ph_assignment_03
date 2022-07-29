@@ -59,18 +59,16 @@ body {
   margin-top: 5rem;
 }
 
-.text-justify {
-  text-align: justify;
-}
 /* ----------------------
  * End of Customizing SPACING */
 
-/* Miscellenious */
+/* Miscellenious ------------ */
 /* Getting Rid of Visited Link default style */
 footer a:visited {
   color: white;
 }
 
-.outline {
-  outline: 1px solid lightgray;
+/* Justify Text */
+.text-justify {
+  text-align: justify;
 }
